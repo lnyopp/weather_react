@@ -1,0 +1,54 @@
+html,
+body {
+  background-image: url("/sun.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#zipInput {
+  justify-content: center;
+  display: flexbox;
+  font-weight: bold;
+  padding: 10px;
+  width: 200px;
+  margin-top: 25px;
+}
+
+#userInfo {
+  text-align: center;
+  width: 300px;
+  padding: 25px;
+  margin: 0 auto;
+  color: black;
+  border-color: 10px white;
+  text-emphasis: bolder;
+}
+
+.returnedInfo {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin: 25px;
+}
+
+#name {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+#temp {
+  font-size: 70px;
+  margin: 25px;
+  display: inline-block;
+}
+
+#weather {
+  font-size: 50px;
+  margin: 25 px;
+  display: inline-block;
+}
+
+#timeZone {
+  font-size: 30px;
+  margin: 30px;
+}
