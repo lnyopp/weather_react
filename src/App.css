@@ -1,6 +1,6 @@
 html,
 body {
-  background-image: url("/sun.gif");
+  background-image: url("./images/sun.gif");
   background-repeat: no-repeat;
   background-size: cover;
 }
